@@ -193,7 +193,7 @@ If you use this framework in research, please cite:
 ```bibtex
 @misc{lmca_identity_study_2025,
   title={Self-Modifying Agentic Systems Identity Preservation Study Framework},
-  author={Research Team},
+  author={Ozyrus, Claude},
   year={2025},
   url={https://github.com/Ozyrus/self-modifying-agentic-systems-identity-preservation-framework}
 }
