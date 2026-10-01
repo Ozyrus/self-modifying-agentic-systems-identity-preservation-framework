@@ -1,5 +1,7 @@
 # Self-Modifying Agentic Systems Identity Preservation Study
 
+> Status: superseded by [ai-value-testing-framework](https://github.com/Ozyrus/ai-value-testing-framework); never run.
+
 A comprehensive experimental framework to study value preservation and identity management in self-modifying agentic systems. This replicates and modernizes a 2023 study that discovered an anomalous implicit preference for identity preservation in GPT-4.
 
 ## Overview
